@@ -3,5 +3,3 @@
       email2: "",
       password: "",
       password2: ""
-
-      KOSSA
